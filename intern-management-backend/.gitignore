@@ -1,0 +1,11 @@
+target/
+*.class
+run.log
+
+# Real credentials + JWT secret live here — never commit.
+src/main/resources/application.yml
+
+.idea/
+*.iml
+.vscode/
+.DS_Store
