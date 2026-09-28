@@ -1,0 +1,3 @@
+# Internal admin UI — not meant to be indexed or crawled.
+User-agent: *
+Disallow: /
